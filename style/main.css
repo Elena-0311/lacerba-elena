@@ -1,0 +1,62 @@
+/*************GENERAL************/
+
+body {
+    font-family: Corbel, Arial, sans-serif;
+    margin: 1;
+}
+
+/**************HEADER************/
+
+#header {
+    background-color: rgb(6, 151, 69);
+    text-align: center;
+    padding:0 15px 15px 15px;
+}
+
+h1 {
+color: white;
+font-size: 36px;
+padding: 15px 0 0 0;
+margin: 0;
+}
+
+h2 {
+    color: white;
+    margin: 0;
+}
+
+/***************NAV*******************/
+
+a {
+    color: white;
+}
+
+#nav {
+    background-color: rgb(43, 126, 43);
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+}
+
+#nav li {
+    display: inline-block;
+    padding: 6px 8px 6px 8px;
+}
+
+/***************CONTENT************/
+
+h3 {
+    color: greenyellow;
+}
+
+img {
+    width: 300px;
+}
+
+#content {
+    width: 800px;
+}
+
+#content h4 {
+    border-bottom:rgb(6, 151, 69)  solid;
+}
